@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2017", // PACOTE ECMA                              
+    "module": "commonjs", // PADRÃO DO PROJETO
+    "allowJs": true, // PERMITE A UTILIZAÇÃO DE JAVASCRIPT               
+    "outDir": "./dist", // QUANDO BUILD PARA PRODUÇÃO É ONDE OS ARQUIVOS FINAIS VÃO FICAR
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,         
+    "skipLibCheck": true,
+  }
+}
